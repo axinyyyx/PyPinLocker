@@ -4,7 +4,7 @@
 
 ## Features
 - Generates all possible PIN combinations of a user-specified length.
-- Saves the generated list of PINs to a text file (e.g., `4_digit_10000_password_list.txt`).
+- Saves the generated list of PINs to a text file (e.g:- `4_digit_10000_password_list.txt`).
 - Includes the total number of generated PINs and the number of digits used in the output file.
 - Simple and easy to use Python script.
 
